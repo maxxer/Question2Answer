@@ -68,7 +68,7 @@
 		'permit_post_c' => "Aggiungere un commento",
 		'permit_post_q' => "Fare una domanda",
 		'permit_recat' => "Modificare la categoria a una domanda",
-		'permit_retag' => "Ritaggare una domanda",
+		'permit_retag' => "Rietichettare una domanda",
 		'permit_select_a' => "Selezionare risposte per una domanda",
 		'permit_view_q_page' => "Visualizzare la pagina delle domande",
 		'permit_vote_a' => "Voti alle risposte",
